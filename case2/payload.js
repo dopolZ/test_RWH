@@ -1,0 +1,10 @@
+[
+   "postMessageWithContentHeight",
+   "delayShowChallengeData",
+   "setRunStatus",
+   "runChallenge",
+   "asString",
+   "sendCandidate",
+   "handleMobile",
+   "handleWeb"
+]
