@@ -1,0 +1,13 @@
+[
+   "_asyncToGenerator",
+   "_regeneratorRuntime",
+   "postMessageWithContentHeight",
+   "delayShowChallengeData",
+   "setRunStatus",
+   "runChallenge",
+   "_objectSpread2",
+   "asString",
+   "sendCandidate",
+   "handleMobile",
+   "handleWeb"
+]

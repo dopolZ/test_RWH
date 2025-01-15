@@ -1,10 +1,10 @@
 {
-  "name": "case2",
+  "name": "case3",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "start": "node extPayload.js"
+    "start": "node crtDepends.js"
   },
   "keywords": [],
   "author": "",
